@@ -1,5 +1,7 @@
 # Snake Game Using Java Swing
 
+![gamePlay](./GamePlay.png)
+
 ## How to compile Java using VScode and Git
 1. Select the folder then open `Bash` or `CMD` in that folder
 2. Clone this repo by `git clone https://github.com/ullas-i/swing-snakeGame.git`
